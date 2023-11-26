@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color:  #000000; ;
+    font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+.nav-bar li{
+    display: inline-flex;
+    padding-left: 100px;
+    margin-top: 30px;
+    color: black;
+}
+.right li{
+    display: inline-flex;
+    padding-left: 20px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.left img{
+  width: 80px;
+  height: 70px;
+  margin-top: 5px;
+  margin-left: 50px;
+  
+}
+li a:hover{
+    color:#4b4d5a;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-image:url(man.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.text{
+    color: #ffd620 ;
+    margin-left: 50px;
+    padding-top: 250px;
+}
+.text h1{
+    font-size: 60px;
+    color:  #000000;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    padding-left: 18px;
+}
+.text p{
+    font-size: 30px;
+    color: #424242;
+    padding-left: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text button{
+    height: 30px;
+    background-color: #000000;
+    padding-left: 7px;
+    padding-right: 10px;
+    margin-left: 15px;
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 135px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.text button:hover{
+    color: #4b4d5a;
+}

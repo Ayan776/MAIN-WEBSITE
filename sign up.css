@@ -1,0 +1,43 @@
+
+#signup{
+    text-align: center;
+    margin-top: 290px;
+    height: 400px;
+    border: 2px solid rgb(28, 143, 158);
+    width: 600px;
+    margin-left: 700px;
+    background-color: #b8edf0;
+    border-radius: 20px;
+    box-shadow: 0px 0px 8px 2px #115154;
+    /* display: inline; */
+    background-image: url();
+    display: inline-block;
+}
+#signup input{
+    border-radius: 20px;
+    height: 30px;
+    width: 250px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 8px 2px #115154;
+    border: 2px solid rgb(28, 143, 158);
+}
+#signup button{
+    border-radius: 15px;
+    width: 160px;
+    height: 30px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 14px;
+    background-color: rgb(35, 165, 187);
+    box-shadow: 0px 0px 8px 2px #115154;
+    border: 2px solid rgb(108, 113, 114);
+}
+#signup h2{
+    font-size: 34px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#signup .signin{
+    color: rgb(56, 56, 56);
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}

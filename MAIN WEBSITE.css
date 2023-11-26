@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color:  #000000; ;
+    font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+.nav-bar li{
+    display: inline-flex;
+    padding-left: 50px;
+    margin-top: 30px;
+    color: black;
+    margin-right: 200px;
+}
+.left img{
+    width: 80px;
+    height: 70px;
+    margin-top: 5px;
+    margin-left: 50px;
+    
+  }
+  li a:hover{
+      color:#4b4d5a;
+  }
+  .main{
+    margin-top: 20px;
+  }
+  .main h1{
+    color: #4d4d4d;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  .main p{
+    padding-top: 10px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .images{
+    margin-left: 160px;
+    margin-top: 100px;
+  }
+  .p1{
+
+    padding-top: 0px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .p2{
+    margin-left: 910px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .img2{
+    padding-left: 300px;
+  }
+  .images2{
+    margin-left: 160px;
+    margin-top: 50px;
+  }
+  .info h1{
+    color: #4d4d4d;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+  }
+  .info p{
+    color:#000000;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
